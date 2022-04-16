@@ -5,7 +5,9 @@ html, body {
 
 body {
  margin: 0;
- background: aqua;
+ font-family: monospace, 'sans-serif';
+ color: #c32d82;
+ background: #0000bf;
  overflow: hidden;
  box-sizing: border-box;
 }
@@ -14,5 +16,4 @@ h1 {
  font-size: 20px:
  padding: 18px auto;
  text-align: center;
- font-family: monospace, 'sans-serif';
 }
