@@ -6,14 +6,13 @@ html, body {
 body {
  margin: 0;
  font-family: monospace, 'sans-serif';
+ text-align: center;
  color: #c32d82;
  background: #0000bf;
  overflow: hidden;
  box-sizing: border-box;
 }
 
-h1 {
- font-size: 20px:
+h1, h2, h3, h4, h5, h6, p {
  padding: 18px auto;
- text-align: center;
 }
