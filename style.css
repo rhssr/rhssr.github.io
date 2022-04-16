@@ -13,6 +13,11 @@ body {
 	box-sizing: border-box;
 }
 
+h2:last-of-type {
+	border-bottom: 2px solid #000;
+	padding-bottom: 20px;
+}
+
 div.media {
 	display: flex;
 	flex-direction: row;
