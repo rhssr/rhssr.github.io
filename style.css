@@ -19,7 +19,7 @@ div.media {
 	justify-content: center;
 }
 
-img.codepen {
+.codepen {
 	max-width: 40px;
 	max-height: 40px;
 }
